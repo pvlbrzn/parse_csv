@@ -1,0 +1,32 @@
+[
+    {
+        "Factory": "MAZ",
+        "number_of_workers": "17000",
+        "avarage_salary": "500$",
+        "City": "Minsk"
+    },
+    {
+        "Factory": "MTZ",
+        "number_of_workers": "16000",
+        "avarage_salary": "580$",
+        "City": "Minsk"
+    },
+    {
+        "Factory": "BELAZ",
+        "number_of_workers": "10615",
+        "avarage_salary": "570$",
+        "City": "Zhodino"
+    },
+    {
+        "Factory": "MZKT",
+        "number_of_workers": "4000",
+        "avarage_salary": "615$",
+        "City": "Minsk"
+    },
+    {
+        "Factory": "BelJeely",
+        "number_of_workers": "2000",
+        "avarage_salary": "590$",
+        "City": "Borisov"
+    }
+]
