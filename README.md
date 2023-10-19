@@ -1,4 +1,4 @@
 # parse_csv
-![Снимок экрана от 2023-10-19 23-16-40](https://github.com/pvlbrzn/parse_csv/assets/146545294/527130f2-66a6-458c-82c2-eb89df990343)
-![Снимок экрана от 2023-10-19 23-16-29](https://github.com/pvlbrzn/parse_csv/assets/146545294/8eb68e9c-93c0-4b55-aa96-9b9ab8a07fdc)
-![Снимок экрана от 2023-10-19 23-16-14](https://github.com/pvlbrzn/parse_csv/assets/146545294/4ce94aaa-878f-44dc-ac50-7ad8691895f6)
+![Снимок экрана от 2023-10-19 23-16-14](https://github.com/pvlbrzn/parse_csv/assets/146545294/9ee8c8ac-12db-461c-bb03-ca9def8564ed)
+![Снимок экрана от 2023-10-19 23-16-29](https://github.com/pvlbrzn/parse_csv/assets/146545294/c41bd70d-b7cd-4659-af92-fc7c618dd3cb)
+![Снимок экрана от 2023-10-19 23-16-40](https://github.com/pvlbrzn/parse_csv/assets/146545294/a0bfe286-556c-4fcf-89b7-514c122c20de)
