@@ -3,6 +3,7 @@ import json
 
 # it's func parsing .csv
 def parse_csv():
+    # open file "BelFactory.csv" and read line by line
     with open("BelFactory.csv", "r") as f:
         keys = f.readline().strip().split(",") #strip() delet \n in the end str
         res = [dict(zip(keys, line.strip().split(","))) for line in f] #split() separation string sep=","
@@ -25,4 +26,3 @@ def main():
 
 if __name__=="__main__":
     main()
-
